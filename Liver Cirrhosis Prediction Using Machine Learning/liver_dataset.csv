@@ -1,0 +1,4 @@
+Age,Durationofalcoholconsumptionyears,Quantityofalcoholconsumptionquartersday,Hemoglobingdl,PCV,MCVfemtoliterscell,TotalCount,Polymorphs,Lymphocytes,Monocytes,Eosinophils,Basophils,PlateletCountlakhsmm,Directmgdl,Indirectmgdl,TotalProteingdl,Albumingdl,Globulingdl,ALPhosphataseUL,SGOTASTUL,SGPTALTUL,cirrhosis
+45,10,2,13.5,42,85.2,6000,60,30,6,3,1,2.5,0.6,0.7,7.2,4.2,3.0,90,45,50,0
+60,30,4,10.2,38,90.1,8500,75,20,3,1,1,1.2,1.4,1.8,5.6,2.8,2.8,250,130,90,1
+35,5,1,14.8,45,87.5,7200,65,25,5,4,1,2.8,0.4,0.5,7.5,4.4,3.1,100,60,55,0
