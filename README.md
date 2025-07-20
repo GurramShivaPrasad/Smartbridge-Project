@@ -49,27 +49,6 @@ The dataset includes numeric medical features such as:
 | Dataset    | CSV Format (from Kaggle) |
 
 
-## 📁 Project Structure
-----
-liver-cirrhosis-predictor/
-│
-├── model/
-│   └── xgboost_model.joblib          # Trained ML model
-│
-├── static/
-│   └── styles.css                    # CSS for styling (optional)
-│
-├── templates/
-│   └── index.html                    # HTML form for web input
-│
-├── liver_dataset.csv                 # Dataset (optional to share)
-├── app.py                            # Flask app
-├── preprocess.py                     # Preprocessing or training script
-├── requirements.txt                  # Python dependencies
-├── README.md                         # Project overview and instructions
-└── LICENSE                           # (Optional) MIT or other license
----
-
 ## ⚙️ How to Run the Project
 ```bash
 1. Clone the Repository
@@ -89,19 +68,26 @@ python app.py
 ---
 
 ## 🧪 Sample Workflow
+
 Open the web form.
 
 Enter patient values (e.g., age, hemoglobin, ALT levels).
+
 Click Submit.
 
 Receive prediction:
+
 Yes = Patient at risk of Cirrhosis
 
 No = No Cirrhosis detected
 
+---
+
 ## 👩‍💻 Contributor
 
 Gurram Shiva Prasad – Developer & Designer
+
+---
 
 ## 📜 License
 
