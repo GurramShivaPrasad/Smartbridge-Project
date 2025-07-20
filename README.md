@@ -94,6 +94,7 @@ Gurram Shiva Prasad – Developer & Designer
 This project is licensed under the MIT License.
 
 ---
-A machine learning–powered web application for real-time, non-invasive prediction of liver cirrhosis using clinical and laboratory data.
+
+> machine learning–powered web application designed to predict liver cirrhosis in real time using clinical and laboratory data,fast,and accurate tool to support early diagnosis and improve patient outcomesand health.
 
 
