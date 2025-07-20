@@ -95,6 +95,6 @@ This project is licensed under the MIT License.
 
 ---
 
-> machine learning–powered web application designed to predict liver cirrhosis in real time using clinical and laboratory data,fast,and accurate tool to support early diagnosis and improve patient outcomesand health.
+> Machine learning powered web application designed to predict liver cirrhosis in real time using clinical and laboratory data,fast,and accurate tool to support early diagnosis and improve patient outcomes using machine learning.
 
 
