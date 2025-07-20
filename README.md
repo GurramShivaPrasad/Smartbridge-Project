@@ -100,16 +100,13 @@ Click Submit.
 Receive prediction:
 Yes = Patient at risk of Cirrhosis
 No = No Cirrhosis detected
-
----
 ---
 ## 👩‍💻 Contributor
 Gurram Shiva Prasad – Developer & Designer
----
----
+
 ## 📜 License
 This project is licensed under the MIT License.
----
+
 A machine learning–powered web application for real-time, non-invasive prediction of liver cirrhosis using clinical and laboratory data.
 
 
