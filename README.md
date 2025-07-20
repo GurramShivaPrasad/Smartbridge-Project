@@ -72,7 +72,7 @@ liver-cirrhosis-predictor/
 ## ⚙️ How to Run the Project
 
 ### 1. Clone the Repository
-
+```bash
 git clone https://github.com/GurramShivaPrasad/Smartbridge-Project.git
 cd liver-cirrhosis-predictor
 2. Create and Activate Virtual Environment
