@@ -75,6 +75,7 @@ liver-cirrhosis-predictor/
 ```bash
 git clone https://github.com/GurramShivaPrasad/Smartbridge-Project.git
 cd liver-cirrhosis-predictor
+---
 2. Create and Activate Virtual Environment
 python -m venv venv
 source venv/bin/activate
@@ -105,7 +106,6 @@ Gurram Shiva Prasad – Developer & Designer
 
 📜 License
 This project is licensed under the MIT License.
-
 
 A machine learning–powered web application for real-time, non-invasive prediction of liver cirrhosis using clinical and laboratory data.
 
