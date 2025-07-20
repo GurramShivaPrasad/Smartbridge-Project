@@ -49,30 +49,32 @@ The dataset includes numeric medical features such as:
 | Dataset    | CSV Format (from Kaggle) |
 
 ---
-
 ## 📁 Project Structure
 liver-cirrhosis-predictor/
 │
 ├── model/
-│ └── xgboost_model.joblib # Trained ML model
+│   └── xgboost_model.joblib          # Trained ML model
 │
 ├── static/
-│ └── styles.css # Optional CSS file
+│   └── styles.css                    # CSS for styling (optional)
 │
 ├── templates/
-│ └── index.html # Input form page
+│   └── index.html                    # HTML form for web input
 │
-├── app.py # Flask application
-├── preprocess.py # Optional data prep script
-├── requirements.txt # Python dependencies
-└── liver_dataset.csv # Original or cleaned dataset
+├── liver_dataset.csv                 # Dataset (optional to share)
+├── app.py                            # Flask app
+├── preprocess.py                     # Preprocessing or training script
+├── requirements.txt                  # Python dependencies
+├── README.md                         # Project overview and instructions
+└── LICENSE                           # (Optional) MIT or other license
+
 
 ---
 
 ## ⚙️ How to Run the Project
 
 ### 1. Clone the Repository
-```bash
+
 git clone https://github.com/GurramShivaPrasad/Smartbridge-Project.git
 cd liver-cirrhosis-predictor
 ---
@@ -100,6 +102,8 @@ Click Submit.
 Receive prediction:
 Yes = Patient at risk of Cirrhosis
 No = No Cirrhosis detected
+
+---
 
 👩‍💻 Contributor
 Gurram Shiva Prasad – Developer & Designer
