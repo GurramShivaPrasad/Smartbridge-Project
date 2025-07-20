@@ -48,8 +48,9 @@ The dataset includes numeric medical features such as:
 | Tools      | Jupyter Notebook, VS Code |
 | Dataset    | CSV Format (from Kaggle) |
 
----
+
 ## 📁 Project Structure
+----
 liver-cirrhosis-predictor/
 │
 ├── model/
@@ -67,14 +68,13 @@ liver-cirrhosis-predictor/
 ├── requirements.txt                  # Python dependencies
 ├── README.md                         # Project overview and instructions
 └── LICENSE                           # (Optional) MIT or other license
-
-
 ---
 
 ## ⚙️ How to Run the Project
-
+```bash
 1. Clone the Repository
 git clone https://github.com/GurramShivaPrasad/Smartbridge-Project.git
+
 cd liver-cirrhosis-predictor
 
 2. Create and Activate Virtual Environment
@@ -86,9 +86,7 @@ pip install -r requirements.txt
 
 4. Run the Flask App
 python app.py
-
----
-
+```
 ---
 
 ## 🧪 Sample Workflow
@@ -100,12 +98,15 @@ Click Submit.
 Receive prediction:
 Yes = Patient at risk of Cirrhosis
 No = No Cirrhosis detected
----
+
 ## 👩‍💻 Contributor
+
 Gurram Shiva Prasad – Developer & Designer
 
 ## 📜 License
+
 This project is licensed under the MIT License.
+
 
 A machine learning–powered web application for real-time, non-invasive prediction of liver cirrhosis using clinical and laboratory data.
 
